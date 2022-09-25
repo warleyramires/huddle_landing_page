@@ -1,0 +1,10 @@
+:root{
+    --primary-color: hsl(257, 40%, 49%);
+    --secondary-color:  hsl(300, 69%, 71%);
+
+    --max-width-size: 1440px;
+
+    --primary-text: 'Open Sans', sans-serif;
+    --secondary-text: 'Poppins', sans-serif;
+
+}
